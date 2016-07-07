@@ -1,0 +1,12 @@
+---
+layout: false
+class: section
+background-image: url(../img/placeholders/$2)
+
+# $1
+
+
+---
+layout: true
+
+.breadcrumb[$1]
